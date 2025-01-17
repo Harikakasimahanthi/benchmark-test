@@ -5,7 +5,7 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/Harikakasimahanthi/benchmark-test/internal/network"
+	"github.com/Harikakasimahanthi/benchmark-test/internal/platform/network"
 )
 
 type Metric struct {
